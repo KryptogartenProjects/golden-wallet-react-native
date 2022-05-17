@@ -45,7 +45,7 @@
     "react-native-camera": "^1.1.4",
     "react-native-check-notification-enable": "^1.0.4",
     "react-native-crypto": "^2.1.2",
-    "react-native-device-info": "^0.21.5",
+    "react-native-device-info": "^0.29.1",
     "react-native-fabric": "^0.5.1",
     "react-native-fabric-crashlytics": "^0.1.8",
     "react-native-fcm": "^16.0.0",
